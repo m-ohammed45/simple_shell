@@ -14,7 +14,8 @@ int main(int b, char **argv)
 	size_t c = 0;
 	(void)b;
 	(void)argv;
-while(1){
+while (1)
+{
 	printf("%s", prompt);
 	getline(&lineptr, &c, stdin);
 	printf("%s\n", lineptr);
