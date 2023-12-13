@@ -6,7 +6,8 @@
  *@argv: double pointer.
  *
  *Return: 0 .
- */
+*/
+
 int main(int b, char **argv)
 {
 	char *prompt = "(Babyshell) $ ";
