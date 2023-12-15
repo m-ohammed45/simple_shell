@@ -3,3 +3,4 @@
 # See hack/generate-authors.sh to make modifications.
 
 Mohmmed Farhat<mohammedfarhat30@gmail.com>
+Mostafa Elgazzar<mustafaelgazzar@gmail.com>
